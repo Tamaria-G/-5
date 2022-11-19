@@ -1,0 +1,12 @@
+@font-face {
+    font-family: helvetica-bold;
+    src: url(../fonts/Helvetica-Font/Helvetica-Bold.ttf);
+}
+@font-face {
+    font-family: helvetica-reg;
+    src: url(../fonts/Helvetica-Font/Helvetica.ttf);
+}
+@font-face {
+    font-family: acumin;
+    src: url(../fonts/FontsFree-Net-Acumin-Pro-Book.ttf);
+}
