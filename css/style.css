@@ -169,3 +169,52 @@ h3{
 
 /* ---------start footer-------- */
 
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: #707070;
+    margin-top: 37px;
+    padding-top: 57px;
+}
+.footer-logo{
+    font-family: acumin;
+    font-size: 13px;
+    font-weight: 700;
+    color: #CCCCCC;
+    margin-left: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+.footer-nav{
+    display: inline-block;
+    vertical-align: top;
+}
+.footer-ul{
+    display: inline-block;
+    margin-left: 90px;
+}
+.footer-ul li{
+    margin-bottom: 8px;
+}
+.footer-ul a{
+    color: #CBD0D3;
+    font-family: helvetica-bold;
+    font-size: 13px;
+}
+.unknown-link{
+    color: #CBD0D3;
+    font-family: helvetica-reg;
+    font-size: 11px;
+    margin-left: 112px;
+    margin-right: 120px;
+}
+.social-icons{
+    display: inline-block;
+}
+.social-icons li{
+    display: inline-block;
+}
+.margin-li{
+    margin-right: 32px;
+}
+
